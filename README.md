@@ -1,8 +1,12 @@
 # DSA-Stack-and-Queue
 Thinkful Nights &amp; Weekends Data Structures + Algorithms Stack &amp; Queue Drills
 
-To run the drills, enter this:
+To run the drills, enter
 ``` sh
-$ node stack-queue-drills.js
+$ node Stack.js
 ```
-at a command prompt.
+or
+``` sh
+$ node Queue.js
+```
+at a command prompt
